@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="load_contacts">load_contacts</string>
+</resources>
